@@ -1,0 +1,1 @@
+fmt.Printn("La suma de \"prueba \" ", num1, "y", num2, "es mayor a ", 1345)
